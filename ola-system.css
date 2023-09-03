@@ -546,7 +546,7 @@ a.link{
         justify-content: space-between;
         align-items: start;
         padding: 5rem 1.5rem;
-        /* row-gap: 1rem ; */
+        row-gap: 1rem ;
     }
     .contact-section h2 {
         font-family: 'Sora';
